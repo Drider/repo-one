@@ -1,2 +1,3 @@
 print( 'Hello world!' );
 print( 'Helllo everybody' );
+print('Hi all');
